@@ -610,3 +610,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.11-18.30.07:929][  0]LogMeshReduction: No distributed automatic mesh merging module available
 [2022.10.11-18.30.07:929][  0]LogMeshMerging: No distributed automatic mesh merging module available
 [2022.10.11-18.30.09:045][  0]LogNetVersion: project 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3814265607)
+[2022.10.11-18.30.35:117][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.10.11-18.30.36:089][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.10.11-18.30.36:378][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.10.11-18.30.36:378][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.10.11-18.30.36:378][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.11-18.30.43:127][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: C53D865145D7778862BEB387F78099AC | Instance: 28878FF148791A9685DDF1954C60E079 (LIAMSPC-19164).
+[2022.10.11-18.30.44:282][  0]LogPython: Using Python 3.7.7
