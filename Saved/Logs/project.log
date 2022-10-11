@@ -617,3 +617,85 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.11-18.30.36:378][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
 [2022.10.11-18.30.43:127][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: C53D865145D7778862BEB387F78099AC | Instance: 28878FF148791A9685DDF1954C60E079 (LIAMSPC-19164).
 [2022.10.11-18.30.44:282][  0]LogPython: Using Python 3.7.7
+[2022.10.11-18.30.48:264][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.11-18.30.48:307][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.11-18.30.49:127][  0]SourceControl: Source control is disabled
+[2022.10.11-18.30.49:149][  0]SourceControl: Source control is disabled
+[2022.10.11-18.30.49:248][  0]SourceControl: Source control is disabled
+[2022.10.11-18.30.49:277][  0]SourceControl: Source control is disabled
+[2022.10.11-18.30.49:404][  0]SourceControl: Source control is disabled
+[2022.10.11-18.30.50:085][  0]LogUProjectInfo: Found projects:
+[2022.10.11-18.30.50:099][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.11-18.30.50:100][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.11-18.30.50:100][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.11-18.30.54:681][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.11-18.30.55:217][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.11-18.30.55:388][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.11-18.30.55:388][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.11-18.30.56:511][  0]LogCollectionManager: Loaded 0 collections in 0.001757 seconds
+[2022.10.11-18.30.57:001][  0]LogFileCache: Scanning file cache for directory 'E:/chris animation/animation-project/Saved/Collections/' took 0.01s
+[2022.10.11-18.30.57:001][  0]LogFileCache: Scanning file cache for directory 'E:/chris animation/animation-project/Content/Developers/Liam/Collections/' took 0.00s
+[2022.10.11-18.30.57:001][  0]LogFileCache: Scanning file cache for directory 'E:/chris animation/animation-project/Content/Collections/' took 0.00s
+[2022.10.11-18.30.57:001][  0]LogOcInput: OculusInput pre-init called
+[2022.10.11-18.31.00:659][  0]LogAutomationTest: Warning: Smoke tests took >2s to run (2.21s). 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' took 1993ms. SmokeFilter tier tests should take less than 1ms. Please optimize or move 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' to a slower tier than SmokeFilter.
+[2022.10.11-18.31.00:852][  0]LogEngine: Initializing Engine...
+[2022.10.11-18.31.01:166][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.10.11-18.31.01:180][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.11-18.31.01:195][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.10.11-18.31.01:417][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.064 s
+[2022.10.11-18.31.01:756][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.11-18.31.02:718][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.11-18.31.02:789][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.11-18.31.02:849][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.11-18.31.02:850][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.11-18.31.02:876][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.11-18.31.02:876][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.11-18.31.02:919][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.11-18.31.02:919][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.11-18.31.02:919][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.11-18.31.02:919][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.11-18.31.02:919][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.11-18.31.02:919][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.11-18.31.02:919][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.11-18.31.02:920][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.11-18.31.02:983][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.11-18.31.02:983][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.11-18.31.02:983][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.11-18.31.02:983][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.11-18.31.03:166][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.11-18.31.03:166][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.10.11-18.31.03:338][  0]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Quadcast)
+[2022.10.11-18.31.03:404][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.11-18.31.03:408][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.11-18.31.03:409][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.11-18.31.03:416][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.11-18.31.03:417][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.11-18.31.03:417][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.11-18.31.03:418][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.11-18.31.03:418][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.11-18.31.03:418][  0]LogInit: FAudioDevice initialized.
+[2022.10.11-18.31.03:424][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.11-18.31.03:441][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.11-18.31.03:657][  0]LogDerivedDataCache: Saved boot cache 0.22s 94MB C:/Users/Liam/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.10.11-18.31.03:658][  0]LogInit: Texture streaming: Enabled
+[2022.10.11-18.31.03:904][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.10.11-18.31.03:963][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.11-18.31.03:976][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.10.11-18.31.04:054][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.10.11-18.31.05:063][  0]LogInit: Transaction tracking system initialized
+[2022.10.11-18.31.05:560][  0]BlueprintLog: New page: Editor Load
+[2022.10.11-18.31.08:580][  0]LocalizationService: Localization service is disabled
+[2022.10.11-18.31.09:557][  0]TimingProfiler: Initialize
+[2022.10.11-18.31.09:560][  0]TimingProfiler: OnSessionChanged
+[2022.10.11-18.31.09:560][  0]LoadingProfiler: Initialize
+[2022.10.11-18.31.09:560][  0]LoadingProfiler: OnSessionChanged
+[2022.10.11-18.31.09:560][  0]NetworkingProfiler: Initialize
+[2022.10.11-18.31.09:561][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.11-18.31.09:561][  0]MemoryProfiler: Initialize
+[2022.10.11-18.31.09:561][  0]MemoryProfiler: OnSessionChanged
+[2022.10.11-18.31.10:802][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.11-18.31.10:803][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.11-18.31.10:803][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.11-18.31.12:432][  0]LogFileCache: Scanning file cache for directory 'E:/chris animation/animation-project/Content/' took 0.07s
+[2022.10.11-18.31.12:432][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.10.11-18.31.12:433][  0]LogCook: Display: Mobile HDR setting 1
